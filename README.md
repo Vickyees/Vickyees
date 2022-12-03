@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vickyees
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning AWS
+- 🌱 I’m freelancing as a flutter developer
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me vigneshr701@gmail.com
 
